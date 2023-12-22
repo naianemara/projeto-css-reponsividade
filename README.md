@@ -7,3 +7,5 @@
   <img src="https://img.shields.io/badge/CSS-0b45a6?&style=for-the-badge&logo=css3&logoColor=white" alt=CSS ></p>
   <br>
   <img src="assets/WhatsApp Image 2023-12-18 at 16.59.00.jpeg" alt=projeto/>
+  <br>
+  <img src="assets/WhatsApp Image 2023-12-18 at 16.56.24.jpeg" alt=responsivo/>
